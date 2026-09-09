@@ -1,0 +1,51 @@
+.video {
+margin-top: 30px;
+background-color: red;
+padding: 20px;
+border-radius: 20px;
+}
+
+.video:hover{
+background-color: rgb(215, 253, 0);
+}
+
+
+.roblox{
+    margin-top: 30px;
+background-color: red;
+padding: 20px;
+border-radius: 20px;
+}
+.roblox:hover{
+background-color: rgb(215, 253, 0);
+}
+  
+
+
+.pagina{
+    margin-top: 30px;
+background-color: red;
+padding: 20px;
+border-radius: 20px;
+}
+.pagina:hover{
+background-color: rgb(215, 253, 0);
+}
+
+
+
+th{
+    padding: 20px;
+
+}
+
+td{
+    padding: 20px;
+}
+
+.tabla{
+    background-color: gray;
+    border-radius: 20px;
+}
+
+
